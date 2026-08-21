@@ -143,14 +143,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=qchera&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
