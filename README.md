@@ -2,8 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Andrii+Kuchera+%F0%9F%91%8B;JS%2FTS+%7C+Java+Full-stack+Developer;Building+things+in+Lviv+%F0%9F%87%BA%F0%9F%87%A6" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=qchera&style=for-the-badge&color=7aa2f7" alt="Profile views" />
-
 </div>
 
 ---
@@ -178,5 +176,7 @@
 <div align="center">
 
 *⭐ From [qchera](https://github.com/qchera) — thanks for stopping by!*
+
+<img src="https://komarev.com/ghpvc/?username=qchera&style=for-the-badge&color=7aa2f7" alt="Profile views" />
 
 </div>
