@@ -10,7 +10,7 @@
 
 - 💼 Full-stack developer at **Viso**
 - 📍 Based in **Lviv, Ukraine** 🇺🇦
-- ⚙️ Backend: **Node.js** (NestJS, Express, Next.js), **Java / Spring**, **Python** (FastAPI)
+- ⚙️ Backend: **Node.js** (NestJS, Express, Next.js), **Java** (Spring), **Python** (FastAPI)
 - ⚛️ Frontend: **React**, **Next.js**, **TypeScript / JavaScript**
 - ☁️ Cloud: **AWS** (Lambda, EC2, S3, RDS, Cognito) • event-driven with **Kafka**, **RabbitMQ**, **BullMQ**
 - 🤖 AI-powered dev with **Claude** & **Cursor** • building with **Anthropic**, **OpenAI**, **Perplexity** & **Gemini** APIs
